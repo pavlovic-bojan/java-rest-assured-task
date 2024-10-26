@@ -1,4 +1,4 @@
-# task
+# rest-assured task
 This repository is a recruitment process for the position of Senior QA Automation Engineer Test. Publish it here in this repository in response to the task.
 
 This project was made as my answer to assignment which I got from the company where I am applying for the job and the position of Senior QA Automation Engineer Test. 
